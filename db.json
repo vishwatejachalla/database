@@ -1,0 +1,23 @@
+{
+  "about":[{
+    "desc":"hbgvuhfbdv",
+    "skills":[1,2,3]
+  }],
+  "experience": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "company": "typicode",
+      "description":"jdkbsv"
+    }
+  ],
+  "projects": [
+    {
+      "liveUrl":"sjbfjhb",
+      "gitUrl":"bdvjshdb",
+      "title": 1,
+      "desc": "some comment",
+      "tech": [1,2]
+    }
+  ]
+}
