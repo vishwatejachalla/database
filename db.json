@@ -1,11 +1,19 @@
 {
   "about": [
     {
-      "desc": "hbgvuhfbdv",
+      "desc": "Hi",
       "skills": [
-        1,
-        2,
-        3
+        "Java",
+        "Spring",
+        "Hibernate",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Angular",
+        "TypeScript",
+        "MySQL",
+        "Jenkins",
+        "Dockers"
       ]
     }
   ],
@@ -31,13 +39,25 @@
   ],
   "projects": [
     {
-      "liveUrl": "sjbfjhb",
-      "gitUrl": "bdvjshdb",
-      "title": 1,
-      "desc": "some comment",
+      "gitUrl": "https://github.com/vishwatejachalla/bloodbank",
+      "title": "Online-Blood Bank",
+      "desc": "A web application used for donating blood and requesting blood by users.",
       "tech": [
-        1,
-        2
+        "Angular",
+        "Java",
+        "Spring",
+        "Hibernate",
+        "MySQL"
+      ]
+    },
+    {
+      "title": "Truyum",
+      "desc": "A web application used for bookimg movie tickets",
+      "tech": [
+        "Angular",
+        "Java",
+        "Spring",
+        "MySQL"
       ]
     }
   ]
