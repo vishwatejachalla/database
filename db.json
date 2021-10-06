@@ -1,23 +1,44 @@
 {
-  "about":[{
-    "desc":"hbgvuhfbdv",
-    "skills":[1,2,3]
-  }],
+  "about": [
+    {
+      "desc": "hbgvuhfbdv",
+      "skills": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
   "experience": [
     {
       "id": 1,
-      "title": "json-server",
-      "company": "typicode",
-      "description":"jdkbsv"
+      "title": "Programmer Analyst - Full Stack Developer",
+      "company": "Cognizant Technology Solutions",
+      "description": "Ability to Design develop and implement an end to end components of a work package in all the layers of an application namely UI tier (Presentation layer) Middle tier (Business Logic Tier) data tire integration tier unit testing and deployment as per client requirements. ; understanding of dev ops principles of CI/CD ability to use build and packaging tools to complete the work product WITH THE OBJECTIVE OF delivering high quality project deliverables and user experience WITHIN THE LIMITS OF delivery timelines security quality and performance guidelines. Understanding of the Agile principles and ability to work on one or more variants of agile delivery models."
+    },
+    {
+      "id": 2,
+      "title": "Graduate Assistant",
+      "company": "Arkansas State University",
+      "description": "Developed and taken the responsibilities of the Blood Bank website. Build the application using Java, Spring and Angular. Including features such as login, signup and Blood request and availability.Implemented CRUD operations and Microservices"
+    },
+    {
+      "id":3,
+      "title":"Full Stack Developer",
+      "company":"Freelancing",
+      "description":"Worked on several small sized projects like  truyum etc. Developed a web application, using Angular & Java."
     }
   ],
   "projects": [
     {
-      "liveUrl":"sjbfjhb",
-      "gitUrl":"bdvjshdb",
+      "liveUrl": "sjbfjhb",
+      "gitUrl": "bdvjshdb",
       "title": 1,
       "desc": "some comment",
-      "tech": [1,2]
+      "tech": [
+        1,
+        2
+      ]
     }
   ]
 }
