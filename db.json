@@ -20,6 +20,7 @@
   "experience": [
     {
       "id": 1,
+      "status":true,
       "title": "Programmer Analyst - Full Stack Developer",
       "company": "Cognizant Technology Solutions",
       "description": "Ability to Design develop and implement an end to end components of a work package in all the layers of an application namely UI tier (Presentation layer) Middle tier (Business Logic Tier) data tire integration tier unit testing and deployment as per client requirements. ; understanding of dev ops principles of CI/CD ability to use build and packaging tools to complete the work product WITH THE OBJECTIVE OF delivering high quality project deliverables and user experience WITHIN THE LIMITS OF delivery timelines security quality and performance guidelines. Understanding of the Agile principles and ability to work on one or more variants of agile delivery models."
